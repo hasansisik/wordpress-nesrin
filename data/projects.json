@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Modern Villa Projesi",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Modern Villa 1" },
+      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Modern Villa 2" },
+      { "id": 3, "url": "/assets/imgs/p1.webp", "alt": "Modern Villa 3" }
+    ],
+    "description": "Lüks modern villa tasarımı ve inşaatı"
+  },
+  {
+    "id": 2,
+    "title": "Penthouse Dairesi",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Penthouse 1" },
+      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Penthouse 2" }
+    ],
+    "description": "Şehir manzaralı penthouse daire projesi"
+  },
+  {
+    "id": 3,
+    "title": "Bahçeli Müstakil Ev",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 1" },
+      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 2" },
+      { "id": 3, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 3" },
+      { "id": 4, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 4" }
+    ],
+    "description": "Geniş bahçeli müstakil ev projesi"
+  },
+  {
+    "id": 4,
+    "title": "Deniz Manzaralı Konut",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Deniz Manzaralı 1" }
+    ],
+    "description": "Deniz kenarında lüks konut projesi"
+  },
+  {
+    "id": 5,
+    "title": "Şehir Merkezi Ofis",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Ofis 1" },
+      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Ofis 2" }
+    ],
+    "description": "Modern ofis binası tasarımı"
+  },
+  {
+    "id": 6,
+    "title": "Lüks Dubleks Daire",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Dubleks 1" },
+      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Dubleks 2" },
+      { "id": 3, "url": "/assets/imgs/p1.webp", "alt": "Dubleks 3" }
+    ],
+    "description": "İki katlı lüks dubleks daire"
+  },
+  {
+    "id": 7,
+    "title": "Bahçe Tasarımı",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Bahçe 1" }
+    ],
+    "description": "Peyzaj ve bahçe düzenleme projesi"
+  },
+  {
+    "id": 8,
+    "title": "Yüzme Havuzlu Villa",
+    "images": [
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Havuzlu Villa 1" },
+      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Havuzlu Villa 2" }
+    ],
+    "description": "Özel yüzme havuzlu villa projesi"
+  }
+] 

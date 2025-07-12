@@ -1,5 +1,8 @@
 import { Suspense } from "react";
 import { server } from "@/config";
+import Slider from "@/components/sections/Slider";
+import ContactCards from "@/components/sections/ContactCards";
+import ProjectGallery from "@/components/sections/ProjectGallery";
 import Hero1 from "@/components/sections/Hero1";
 import Hero2 from "@/components/sections/Hero2";
 import Cta4 from "@/components/sections/Cta4";
@@ -177,6 +180,15 @@ export default async function Home() {
   
   return (
     <ReduxProvider preloadedState={preloadedState}>
+      {/* Fixed Slider at the top */}
+      <Slider />
+      
+      {/* Contact Cards Section */}
+      <ContactCards />
+      
+      {/* Project Gallery Section */}
+      <ProjectGallery />
+      
       <Suspense fallback={<PlaceholderSection />}>
         {sections.map((section: Section) => {
           const SectionComponent = sectionComponents[section.type];
