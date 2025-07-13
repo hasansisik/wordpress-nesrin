@@ -1,76 +1,76 @@
 [
   {
     "id": 1,
-    "title": "Modern Villa Projesi",
+    "title": "DAP Yapı Ormanköy Projesi",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Modern Villa 1" },
-      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Modern Villa 2" },
-      { "id": 3, "url": "/assets/imgs/p1.webp", "alt": "Modern Villa 3" }
+      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Ormanköy 1" },
+      { "id": 2, "url": "/assets/imgs/p2.webp", "alt": "Ormanköy 2" },
+      { "id": 3, "url": "/assets/imgs/p3.webp", "alt": "Ormanköy 3" }
     ],
-    "description": "Lüks modern villa tasarımı ve inşaatı"
+    "description": "DAP Yapı Ormanköy, doğayla iç içe bir yaşam sunan, sürdürülebilir mimarisi ve zengin sosyal imkanlarıyla dikkat çeken bir konut projesidir."
   },
   {
     "id": 2,
-    "title": "Penthouse Dairesi",
+    "title": "Emlak Konut Çınarköy Evleri",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Penthouse 1" },
-      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Penthouse 2" }
+      { "id": 1, "url": "/assets/imgs/ek1.webp", "alt": "Çınarköy 1" },
+      { "id": 2, "url": "/assets/imgs/ek2.webp", "alt": "Çınarköy 2" }
     ],
-    "description": "Şehir manzaralı penthouse daire projesi"
+    "description": "Çekmeköy'de konumlanan Emlak Konut Çınarköy Evleri, doğa ile bütünleşen mimarisi ve sosyal imkanlarıyla fark yaratan bir projedir."
   },
   {
     "id": 3,
-    "title": "Bahçeli Müstakil Ev",
+    "title": "Carpe Diem Sitesi",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 1" },
-      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 2" },
-      { "id": 3, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 3" },
-      { "id": 4, "url": "/assets/imgs/p1.webp", "alt": "Müstakil Ev 4" }
+      { "id": 1, "url": "/assets/imgs/cd1.webp", "alt": "Carpe Diem Sitesi 1" },
+      { "id": 2, "url": "/assets/imgs/cd2.webp", "alt": "Carpe Diem Sitesi 2" },
+      { "id": 3, "url": "/assets/imgs/cd3.webp", "alt": "Carpe Diem Sitesi 3" },
+      { "id": 4, "url": "/assets/imgs/cd4.webp", "alt": "Carpe Diem Sitesi 4" }
     ],
-    "description": "Geniş bahçeli müstakil ev projesi"
+    "description": "Carpe Diem Sitesi, özgün mimarisi ve butik konseptiyle doğayla iç içe, huzurlu ve konforlu bir yaşam alanı sunuyor."
   },
   {
     "id": 4,
-    "title": "Deniz Manzaralı Konut",
+    "title": "Alemdağ Emlak Konutları",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Deniz Manzaralı 1" }
+      { "id": 1, "url": "/assets/imgs/ae1.webp", "alt": "Alemdağ 1" }
     ],
-    "description": "Deniz kenarında lüks konut projesi"
+    "description": "Alemdağ Emlak Konutları, Çekmeköy’de doğayla iç içe, güvenli ve konforlu bir yaşam alanı sunan markalı konut projesidir."
   },
   {
     "id": 5,
-    "title": "Şehir Merkezi Ofis",
+    "title": "Payidar Taşdelen Projesi",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Ofis 1" },
-      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Ofis 2" }
+      { "id": 1, "url": "/assets/imgs/pt1.webp", "alt": "Payidar Taşdelen 1" },
+      { "id": 2, "url": "/assets/imgs/pt2.webp", "alt": "Payidar Taşdelen 2" }
     ],
-    "description": "Modern ofis binası tasarımı"
+    "description": "Payidar Taşdelen, fonksiyonel daire planları ve lokasyon avantajıyla dikkat çeken yeni nesil bir konut projesidir."
   },
   {
     "id": 6,
-    "title": "Lüks Dubleks Daire",
+    "title": "Sur Yapı Tilia Projesi",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Dubleks 1" },
-      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Dubleks 2" },
-      { "id": 3, "url": "/assets/imgs/p1.webp", "alt": "Dubleks 3" }
+      { "id": 1, "url": "/assets/imgs/syt1.webp", "alt": "Sur Yapı Tilia 1" },
+      { "id": 2, "url": "/assets/imgs/syt2.webp", "alt": "Sur Yapı Tilia 2" },
+      { "id": 3, "url": "/assets/imgs/syt3.webp", "alt": "Sur Yapı Tilia 3" }
     ],
-    "description": "İki katlı lüks dubleks daire"
+    "description": "Sur Yapı Tilia, Sancaktepe’de konumlanan, modern tasarımı ve sosyal yaşam alanlarıyla dikkat çeken prestijli bir konut projesidir."
   },
   {
     "id": 7,
-    "title": "Bahçe Tasarımı",
+    "title": "Ivory Taşdelen Projesi",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Bahçe 1" }
+      { "id": 1, "url": "/assets/imgs/iv1.webp", "alt": "Ivory Taşdelen 1" }
     ],
-    "description": "Peyzaj ve bahçe düzenleme projesi"
+    "description": "Ivory Taşdelen, doğa manzaralı konumu, estetik mimarisi ve fonksiyonel yaşam alanlarıyla Taşdelen’de kaliteli bir yaşam sunuyor."
   },
   {
     "id": 8,
-    "title": "Yüzme Havuzlu Villa",
+    "title": "Nef Çekmeköy Projesi",
     "images": [
-      { "id": 1, "url": "/assets/imgs/p1.webp", "alt": "Havuzlu Villa 1" },
-      { "id": 2, "url": "/assets/imgs/p1.webp", "alt": "Havuzlu Villa 2" }
+      { "id": 1, "url": "/assets/imgs/n1.webp", "alt": "Nef 1" },
+      { "id": 2, "url": "/assets/imgs/n2.webp", "alt": "Nef 2" }
     ],
-    "description": "Özel yüzme havuzlu villa projesi"
+    "description": "Nef Çekmeköy, modern mimarisi ve doğa dostu konseptiyle İstanbul Anadolu Yakası’nın yükselen yaşam projelerinden biri"
   }
-] 
+]
