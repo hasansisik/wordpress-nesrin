@@ -108,7 +108,7 @@ export default function ProjectGallery() {
             {projects.map((project) => (
               <div key={project.id} className="col-lg-3 col-md-6 col-sm-6">
                 <div 
-                  className="project-card position-relative overflow-hidden rounded-3 cursor-pointer"
+                  className="project-card position-relative overflow-hidden rounded-3 cursor-pointer h-100 d-flex flex-column"
                   style={{
                     backgroundColor: "#ffffff",
                     border: "1px solid #e5e7eb",
@@ -167,7 +167,7 @@ export default function ProjectGallery() {
                   </div>
 
                   {/* Project Info */}
-                  <div className="p-4">
+                  <div className="p-4 d-flex flex-column flex-grow-1">
                     <h5 className="fw-bold mb-2" style={{ color: "#111827" }}>
                       {project.title}
                     </h5>
