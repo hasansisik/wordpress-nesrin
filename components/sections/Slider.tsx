@@ -14,7 +14,7 @@ export default function Slider() {
           height: "600px",
           background: "url('/assets/imgs/hero-1/hero.png')",
           backgroundSize: "cover",
-          backgroundPosition: "center",
+          backgroundPosition: "left",
           backgroundRepeat: "no-repeat"
         }}
       >
@@ -28,7 +28,7 @@ export default function Slider() {
               height: 400px !important;
               background: url('/assets/imgs/hero-1/hero-mobile.png') !important;
               background-size: cover !important;
-              background-position: center !important;
+              background-position: left !important;
               background-repeat: no-repeat !important;
             }
           }
